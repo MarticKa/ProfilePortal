@@ -65,8 +65,7 @@ Please include:
 
 - at least 2 UI tests
 - at least 2 API tests
-- at least 1 test combining API setup with UI verification
-- test data setup and cleanup strategy
+- at least 1 test combining API setup with UI verification (E2E)
 - short README explaining selected scenarios, assumptions and what you would add with more time
 
 We do not expect full coverage. Focus on scenario selection, test architecture, data handling and API usage.
