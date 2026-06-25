@@ -1,5 +1,9 @@
 node_modules/
 .next/
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
 data/users.json
 public/uploads/*
 !public/uploads/.gitkeep
